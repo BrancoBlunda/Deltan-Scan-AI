@@ -1,5 +1,11 @@
 # 🦷 DentalScan AI - Sistema de Análisis Dental
 
+![Resultado del análisis](https://brancoblunda.github.io/assets/proyectos/deltan-scan/03-resultados.webp)
+
+| Inicio | Historial |
+|---|---|
+| ![Inicio](https://brancoblunda.github.io/assets/proyectos/deltan-scan/01-inicio.webp) | ![Historial](https://brancoblunda.github.io/assets/proyectos/deltan-scan/04-historial.webp) |
+
 ## Guía de Ejecución
 
 Sistema de análisis de radiografías dentales panorámicas con detección automática de dientes, calibración de medidas y marcado de reparos anatómicos.
@@ -129,7 +135,9 @@ Abra manualmente: `http://localhost:8501`
 
 Este software es un **prototipo MVP** entregado como código fuente.
 
-Para consultas técnicas o soporte, contacte al desarrollador.
+Desarrollado por Branco Blunda · brancoadrianblunda@gmail.com · https://linkedin.com/in/brancoblunda
+
+Caso completo con capturas en https://brancoblunda.github.io/proyectos/deltan-scan.html
 
 ---
 
